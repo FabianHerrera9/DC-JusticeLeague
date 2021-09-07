@@ -8,3 +8,7 @@ Pueden hacer lo que quieran...
 
 ### Nueva nota
 Commit desde GitHub
+
+### Hola mundo
+
+eso es para probar el git config --global pull.ff only
